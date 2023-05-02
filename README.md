@@ -61,7 +61,8 @@ GND| | | | | | | | |GND
 
 
 ### Block Diagram
-
+![block diagram](https://user-images.githubusercontent.com/93750274/235618260-c0302267-eadc-41d9-823b-7c350230975b.png)
+![block diagram1](https://user-images.githubusercontent.com/93750274/235618277-cd95d08c-150c-4229-9200-f7bce5920d75.png)
 
 ### Breadboard
 ![捕获](https://user-images.githubusercontent.com/93750274/235594018-25eedd96-6082-410a-8011-7239d60aad83.PNG)
