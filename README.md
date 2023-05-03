@@ -59,6 +59,7 @@ VU| | | | | | | | |VIN
 GND| | | | | | | | |GND
 
 mbed | Left Distance Sensor | Right Distance Sensor | Front Distance Sensor | Back Distance Sensor
+------------- | ------------- | ------------- | ------------- | ------------- 
 VOUT | VIN | VIN | VIN | VIN
 GND | GND | GND | GND | GND
 p28 | SDA | SDA | SDA | SDA
