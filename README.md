@@ -83,4 +83,5 @@ p20 | | | |XSHUT
 3. Push the .bin file
 
 ## Demo
-[![IMAGE_ALT](https://img.youtube.com/vi/5kCegLgE2KA/0.jpg)](https://www.youtube.com/watch?v=5kCegLgE2KA)
+[![IMAGE_ALT](https://img.youtube.com/vi/rskGaw2-Giw/0.jpg)](https://www.youtube.com/watch?v=rskGaw2-Giw)
+[![IMAGE_ALT](https://img.youtube.com/vi/8Bp_SSSQn0g/0.jpg)](https://www.youtube.com/watch?v=8Bp_SSSQn0g)
