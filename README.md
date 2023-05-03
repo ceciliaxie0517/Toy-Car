@@ -58,14 +58,21 @@ p13| | | | | | | | |RXI
 VU| | | | | | | | |VIN
 GND| | | | | | | | |GND
 
+mbed | Left Distance Sensor | Right Distance Sensor | Front Distance Sensor | Back Distance Sensor
+VOUT | VIN | VIN | VIN | VIN
+GND | GND | GND | GND | GND
+p28 | SDA | SDA | SDA | SDA
+p27 | SCL | SCL | SCL | SCL
+p16 | XSHUT
+p17 | | XSHUT
+p19 | | |XSHUT
+p20 | | | |XSHUT
 
 
 ### Block Diagram
-![block diagram](https://user-images.githubusercontent.com/93750274/235618260-c0302267-eadc-41d9-823b-7c350230975b.png)
 ![block diagram1](https://user-images.githubusercontent.com/93750274/235618277-cd95d08c-150c-4229-9200-f7bce5920d75.png)
 
 ### Breadboard
-![捕获](https://user-images.githubusercontent.com/93750274/235594018-25eedd96-6082-410a-8011-7239d60aad83.PNG)
 ![捕获1](https://user-images.githubusercontent.com/93750274/235613685-558bae87-7eda-4137-a5b1-72a2be0ca755.PNG)
 
 
@@ -74,6 +81,5 @@ GND| | | | | | | | |GND
 2. Build the project
 3. Push the .bin file
 
-## Assembled Toy Car
-
 ## Demo
+[![IMAGE_ALT](https://img.youtube.com/vi/rskGaw2-Giw/0.jpg)](https://www.youtube.com/watch?v=rskGaw2-Giw)
