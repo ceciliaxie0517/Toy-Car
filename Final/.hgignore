@@ -1,0 +1,9 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^Motor$
+^mbed$
+^VL53L0X$
+^4DGL-uLCD-SE$
